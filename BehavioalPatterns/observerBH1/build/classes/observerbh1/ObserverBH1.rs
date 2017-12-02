@@ -1,5 +1,0 @@
-observerbh1.ObserverBH1
-observerbh1.Subject
-observerbh1.Observer
-observerbh1.Subject$ObserverBH1
-observerbh1.ISubject
