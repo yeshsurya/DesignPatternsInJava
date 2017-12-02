@@ -1,0 +1,11 @@
+1.Observer Pattern
+2.Template Method Pattern
+3.Command Pattern
+4.Iterator Pattern
+5.State Pattern
+6.Mediator Pattern
+7.Strategy Pattern
+8.Chain of Responsibility Pattern
+9.Visitor Pattern
+10.Interpreter Pattern
+11.Memento Pattern

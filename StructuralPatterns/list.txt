@@ -1,0 +1,7 @@
+1.Proxy Pattern
+2.Flyweight Pattern
+3.Bridge Pattern
+4.Facade Pattern
+5.Decorator Pattern
+6.Adapter Pattern
+7.Composite Pattern

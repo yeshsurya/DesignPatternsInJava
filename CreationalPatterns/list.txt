@@ -1,0 +1,5 @@
+Singleton Pattern
+Abstract Factory Pattern
+Prototype Pattern
+Factory Method Pattern
+Builder Pattern
