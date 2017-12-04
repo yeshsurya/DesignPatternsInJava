@@ -1,0 +1,6 @@
+decoratorsp5.ConcreteDecoratorEx_2
+decoratorsp5.ConcreteDecoratorEx_1
+decoratorsp5.DecoratorSP5
+decoratorsp5.AbstractDecorator
+decoratorsp5.Component
+decoratorsp5.ConcreteComponent
