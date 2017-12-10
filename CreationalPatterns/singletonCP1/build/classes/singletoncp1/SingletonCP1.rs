@@ -1,0 +1,2 @@
+singletoncp1.MakeACaptain
+singletoncp1.SingletonCP1
