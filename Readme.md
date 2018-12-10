@@ -1,3 +1,5 @@
-<h1>Behavioural Patterns</h1>
-<h1>Structural Patterns</h1>
-<h1>Creational Patterns</h1>
+<h1>Design Patterns</h1>
+<p>Creational is about instantiation, and Structural is the blueprint, then Behavioral is the pattern of the relationship </p>
+<h2>Behavioural Patterns</h2>
+<h2>Structural Patterns</h2>
+<h2>Creational Patterns</h2>
