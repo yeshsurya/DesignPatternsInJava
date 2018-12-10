@@ -8,3 +8,4 @@
 <p>Patterns where strategy is focussed around relationships among entities are classified under Structural Design Patterns</p>
 </br>
 <h2>Creational Patterns</h2>
+<p>Patterns where strategy is driven around object instantiation process are classified under Creational Patterns</p>
