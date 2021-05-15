@@ -3,3 +3,8 @@
 Putting it in another way, the decorator pattern provides us with a way to modify the behaviour of individual objects without necessity to create new derived class.
 We use decorator pattern where object containment is favoured over object inheritence.</p>
 </br>
+
+<h1> Facade Pattern </h1> 
+<p> Facade pattern hides the complexities of the system and provides an interface to the client using which the client can access the system. This type of design pattern comes under structural pattern as this pattern adds an interface to existing system to hide its complexities.
+
+This pattern involves a single class which provides simplified methods required by client and delegates calls to methods of existing system classes. </p>
