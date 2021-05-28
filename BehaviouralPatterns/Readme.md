@@ -19,3 +19,5 @@ The strategy pattern defines a family of algorithms, encapsulates each algorithm
 <h1>Balking Design Pattern</h1>
 <p>The balking pattern is a software design pattern that only executes an action on an object when the object is in a particular state. For example, if an object reads ZIP files and a calling method invokes a get method on the object when the ZIP file is not open, the object would "balk" at the request. </p>
 </br>
+<h1>State Design Pattern</h1> 
+<p>The state pattern in Java is a behavioural software design pattern that allows an object to alter its behaviour when its internal state changes. The state design pattern is generally used in cases where an object depends on its state and its behavior must be changed during run time depending on its internal state.</p>
