@@ -14,3 +14,6 @@ This pattern involves a single class which provides simplified methods required 
 
 <h1> Proxy Pattern </h1>
 <p>  A proxy, in its most general form, is a class functioning as an interface to something else</p>
+
+<h1> Adapter Pattern </h1>
+<p>  This pattern allows two unrelated/uncommon interfaces to work together. This pattern is often used to make existing classes work with others without modifying their source code. The the adapter class is used to join functionalities of independent or incompatible interfaces/classes.</p>
